@@ -1309,34 +1309,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\4dagi\\.nuget\\packages\\": {}
+    "C:\\Users\\mpere\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\4dagi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\API\\obj\\",
+      "projectPath": "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\mpere\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\4dagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mpere\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Application\\Application.csproj"
+            "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Application\\Application.csproj"
             }
           }
         }

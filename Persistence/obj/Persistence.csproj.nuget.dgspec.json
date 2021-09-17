@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\4dagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\mpere\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\4dagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mpere\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,32 +56,30 @@
         }
       }
     },
-    "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\4dagi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\mpere\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\4dagi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mpere\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\4dagi\\OneDrive\\Documents\\ClasesTdeA\\SoftwareIV\\Proyectos\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\mpere\\OneDrive\\Escritorio\\Proyecto-Construcci-n\\Domain\\Domain.csproj"
               }
             }
           }
