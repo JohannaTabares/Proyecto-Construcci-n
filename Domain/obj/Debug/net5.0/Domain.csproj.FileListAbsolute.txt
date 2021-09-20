@@ -10,6 +10,18 @@ C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\D
 C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
 C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
 C:\Users\4dagi\OneDrive\Documents\ClasesTdeA\SoftwareIV\Proyectos\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\mpere\Downloads\reactivities-sw4-master (1)\reactivities-sw4-master\Domain\obj\Debug\net5.0\Domain.pdb
 C:\Users\mpere\OneDrive\Escritorio\Proyecto-Construcci-n\Domain\bin\Debug\net5.0\Domain.deps.json
 C:\Users\mpere\OneDrive\Escritorio\Proyecto-Construcci-n\Domain\bin\Debug\net5.0\Domain.dll
 C:\Users\mpere\OneDrive\Escritorio\Proyecto-Construcci-n\Domain\bin\Debug\net5.0\ref\Domain.dll
